@@ -1,0 +1,169 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "url": "https://www.relianceofs.com/contact",
+  "mainEntity": {
+    "@type": "Organization",
+    "@id": "https://www.relianceofs.com/#organization",
+    "name": "Reliance Oilfield Services",
+    "contactPoint": [
+      {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "telephone": "+1-403-475-1229",
+        "email": "info@relianceofs.com",
+        "areaServed": "CA",
+        "availableLanguage": ["English"]
+      },
+      {
+        "@type": "ContactPoint",
+        "contactType": "sales",
+        "telephone": "+1-403-475-1229",
+        "email": "sales@relianceofs.com",
+        "areaServed": "CA",
+        "availableLanguage": ["English"]
+      }
+    ],
+    "department": [
+      {
+        "@type": "LocalBusiness",
+        "name": "Bonnyville",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "101 - 61501 HWY 41 MD",
+          "addressLocality": "Bonnyville",
+          "addressRegion": "Alberta",
+          "postalCode": "T9N 0B6",
+          "addressCountry": "CA"
+        },
+        "telephone": "+1-780-826-2520"
+      },
+      {
+        "@type": "LocalBusiness",
+        "name": "Calgary (Head Office)",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Suite 2500, 333 - 7 Avenue S.W.",
+          "addressLocality": "Calgary",
+          "addressRegion": "Alberta",
+          "postalCode": "T2P 2Z1",
+          "addressCountry": "CA"
+        },
+        "telephone": "+1-403-475-1229"
+      },
+      {
+        "@type": "LocalBusiness",
+        "name": "Estevan",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "313 Imperial Avenue",
+          "addressLocality": "Estevan",
+          "addressRegion": "Saskatchewan",
+          "postalCode": "S4A 2A2",
+          "addressCountry": "CA"
+        },
+        "telephone": "+1-306-634-1070"
+      },
+      {
+        "@type": "LocalBusiness",
+        "name": "Fort St John",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "9504 - 73 Avenue",
+          "addressLocality": "Fort St John",
+          "addressRegion": "British Columbia",
+          "postalCode": "V1J 4J1",
+          "addressCountry": "CA"
+        },
+        "telephone": "+1-778-715-9777"
+      },
+      {
+        "@type": "LocalBusiness",
+        "name": "Grande Prairie",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "#1, 9302 - 144 Avenue",
+          "addressLocality": "Grande Prairie",
+          "addressRegion": "Alberta",
+          "postalCode": "T8V 8E4",
+          "addressCountry": "CA"
+        },
+        "telephone": "+1-780-814-8147"
+      },
+      {
+        "@type": "LocalBusiness",
+        "name": "Medicine Hat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1601 Dirkson Drive N.E.",
+          "addressLocality": "Redcliff",
+          "addressRegion": "Alberta",
+          "postalCode": "T0J 2P0",
+          "addressCountry": "CA"
+        },
+        "telephone": "+1-403-527-8522",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Slickline Phone",
+            "value": "+1-403-527-7751"
+          }
+        ]
+      },
+      {
+        "@type": "LocalBusiness",
+        "name": "Provost",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "391040 Hwy 600",
+          "addressLocality": "Provost",
+          "addressRegion": "Alberta",
+          "postalCode": "T0B 3S0",
+          "addressCountry": "CA"
+        },
+        "telephone": "+1-587-878-4665"
+      },
+      {
+        "@type": "LocalBusiness",
+        "name": "Red Deer",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "10 Belich Crescent",
+          "addressLocality": "Red Deer County",
+          "addressRegion": "Alberta",
+          "postalCode": "T4S 2K5",
+          "addressCountry": "CA"
+        },
+        "telephone": "+1-403-406-1900"
+      },
+      {
+        "@type": "LocalBusiness",
+        "name": "Taber",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "54 Westview Blvd",
+          "addressLocality": "Taber",
+          "addressRegion": "Alberta",
+          "postalCode": "T1G 0C2",
+          "addressCountry": "CA"
+        },
+        "telephone": "+1-403-359-3813"
+      },
+      {
+        "@type": "LocalBusiness",
+        "name": "Whitecourt",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "3720 - 33 Street",
+          "addressLocality": "Whitecourt",
+          "addressRegion": "Alberta",
+          "postalCode": "T7S 0A2",
+          "addressCountry": "CA"
+        },
+        "telephone": "+1-780-778-8445"
+      }
+    ]
+  }
+}
+</script>
